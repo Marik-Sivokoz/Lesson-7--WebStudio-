@@ -1,3 +1,13 @@
+@font-face {
+    font-family: Roboto;
+    font-weight: 300;
+    src: url('/font/Roboto-Bold.ttf');
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
 root{
     --background: #2F303A
     --white-color: #F5F4FA
